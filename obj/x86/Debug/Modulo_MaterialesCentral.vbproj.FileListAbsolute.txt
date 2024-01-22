@@ -1262,7 +1262,6 @@ D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\bin\x86\Debug\log4net.xml
 D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\bin\x86\Debug\NetOffice.xml
 D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\bin\x86\Debug\OfficeApi.xml
 D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\bin\x86\Debug\VBIDEApi.xml
-D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.AssemblyReference.cache
 D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.Form1.resources
 D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ActualizacionesConsultar.resources
 D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_AlertasConsultas.resources
