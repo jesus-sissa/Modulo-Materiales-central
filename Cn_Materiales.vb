@@ -3793,15 +3793,15 @@ Validar:
                     lc_dt.Rows.Add(lc_dr)
                     fn_TraspasoMateriales_Guardar(0, 4, fn_Fecha102(fechaActual.ToString), Interno, lc_dt)
                     Filas_Afectadas = EjecutarNonQueryT(cmd)
-
-
+                Else
+                    Filas_Afectadas = EjecutarNonQueryT(cmd)
                 End If
             Next
             'If Elemento.SubItems(3).Text = "S" Then
             'Else
             'fn_TraspasoMateriales_Guardar(0, 4, fn_Fecha102(fechaActual.ToString), Interno, lc_dt, Elemento.SubItems(3).Text)
             'End If
-            Filas_Afectadas = EjecutarNonQueryT(cmd)
+            'Filas_Afectadas = EjecutarNonQueryT(cmd)
             Tr_Local.Commit()
         Catch Err2 As Exception
             Tr_Local.Rollback()
