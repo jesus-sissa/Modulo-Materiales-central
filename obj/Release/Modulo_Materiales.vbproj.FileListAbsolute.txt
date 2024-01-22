@@ -1,0 +1,156 @@
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\bin\Release\Modulo_Materiales.exe.config
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\bin\Release\Modulo_Materiales.exe.manifest
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\bin\Release\Modulo_Materiales.application
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\bin\Release\Modulo_Materiales.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\bin\Release\Modulo_Materiales.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\bin\Release\Modulo_Materiales.xml
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_About.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_LoginContra.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_LoginEmpresa.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_Materiales.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_Splash.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_Login.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_MENU.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.Resources.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.exe.manifest
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.application
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.xml
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_Inv_Materiales.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_Valida_Ventas_Materiales.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_Ventas_Materiales.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_Cancela_Ventas_Materiales.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_Dialago.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_CancelaEnvioaMensajero.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_EnviaraMensajero.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_CancelaEnvioaBoveda.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_EnviaraBoveda.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_RecibirLotes_Boveda.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_FirmaElectronica.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_ValidarEnvioaMensajero.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_RotulaFolio.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_RotulaRemisiones.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\Modulo_Materiales\bin\Release\Modulo_Materiales.exe.config
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.xml
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\Modulo_Materiales\bin\Release\Modulo_Materiales.exe.manifest
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\Modulo_Materiales\bin\Release\Modulo_Materiales.application
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\Modulo_Materiales\bin\Release\Modulo_Materiales.exe
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\Modulo_Materiales\bin\Release\Modulo_Materiales.pdb
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\Modulo_Materiales\bin\Release\Modulo_Materiales.xml
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\Modulo_Materiales\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_RotulaFolio.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_RotulaRemisiones.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_FirmaElectronica.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_ValidarEnvioaMensajero.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_CancelaEnvioaMensajero.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_EnviaraMensajero.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_RecibirLotes_Boveda.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_CancelaEnvioaBoveda.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_Dialogo.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_EnviaraBoveda.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_Cancela_Ventas_Materiales.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_Inv_Materiales.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_Materiales.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_About.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_LoginContra.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_LoginEmpresa.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_Splash.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_Login.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_MENU.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_Valida_Ventas_Materiales.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_Ventas_Materiales.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.Resources.resources
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.exe.manifest
+C:\Documents and Settings\Administrador\Mis documentos\Visual Studio 2008\Projects\Modulo_Materiales\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.application
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.vbproj.ResolveComReference.cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\Modulo_Materiales\bin\Release\Modulo Materiales.exe.config
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\Modulo_Materiales\bin\Release\Modulo Materiales.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\Modulo_Materiales\bin\Release\Modulo Materiales.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\Modulo_Materiales\bin\Release\Modulo Materiales.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\Modulo_Materiales\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\Modulo_Materiales\bin\Release\office.dll
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\Modulo_Materiales\bin\Release\Microsoft.Vbe.Interop.dll
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\Modulo_Materiales\obj\Release\ResolveAssemblyReference.cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_RotulaFolio.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_RotulaRemisiones.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_FirmaElectronica.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_ValidarEnvioaMensajero.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_CancelaEnvioaMensajero.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_EnviaraMensajero.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_RecibirLotes_Boveda.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_CancelaEnvioaBoveda.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_Dialogo.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_EnviaraBoveda.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_Cancela_Ventas_Materiales.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_Inv_Materiales.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_Materiales.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_About.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_LoginContra.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_LoginEmpresa.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_Splash.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_Login.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_MENU.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_Valida_Ventas_Materiales.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_Ventas_Materiales.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.Resources.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo_Materiales.vbproj.GenerateResource.Cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo Materiales.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo Materiales.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo Materiales.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\Modulo_Materiales\bin\Release\Modulo Materiales.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\Modulo_Materiales\bin\Release\Modulo Materiales.application
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo Materiales.TrustInfo.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo Materiales.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\Modulo_Materiales\obj\Release\Modulo Materiales.application
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\bin\Release\Modulo Materiales.exe.config
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\obj\Release\Modulo_Materiales.vbproj.ResolveComReference.cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\obj\Release\Modulo Materiales.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\obj\Release\Modulo Materiales.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\obj\Release\Modulo Materiales.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\bin\Release\Modulo Materiales.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\bin\Release\Modulo Materiales.application
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\bin\Release\Modulo Materiales.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\bin\Release\Modulo Materiales.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\bin\Release\Modulo Materiales.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\bin\Release\office.dll
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\bin\Release\Microsoft.Vbe.Interop.dll
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\obj\Release\ResolveAssemblyReference.cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_RotulaFolio.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_RotulaRemisiones.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_FirmaElectronica.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_ValidarEnvioaMensajero.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_CancelaEnvioaMensajero.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_EnviaraMensajero.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_RecibirLotes_Boveda.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_CancelaEnvioaBoveda.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_Dialogo.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_EnviaraBoveda.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_Cancela_Ventas_Materiales.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_Inv_Materiales.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_Materiales.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_About.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_LoginContra.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_LoginEmpresa.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_Login.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_MENU.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_Valida_Ventas_Materiales.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_Ventas_Materiales.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\obj\Release\Modulo_Materiales.Resources.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\obj\Release\Modulo_Materiales.vbproj.GenerateResource.Cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\obj\Release\Modulo Materiales.TrustInfo.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\obj\Release\Modulo Materiales.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\obj\Release\Modulo Materiales.application
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_CancelarCompras.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_Compras_Materiales.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_EnviarMensajes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_ValidarCompras.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales\obj\Release\Modulo_Materiales.frm_VerMensajes.resources

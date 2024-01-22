@@ -1,0 +1,1491 @@
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.config
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.application
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ActualizacionesConsultar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_AlertasConsultas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasCancelar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Compras.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsultaConsumibles.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Consumibles.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsumiblesDeptos.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_DescargarArchivo.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_EnviarMensajes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FirmaElectronica.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasReimprimir.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_RemisionesRastreo.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Reporte.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasConsultar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasI.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasS.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteVentas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FoliosAsignados.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumibleSurtir.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumiblesValidar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudInsumosConsulta.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasValidar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Dialogo.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VentasCancelar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Inventario.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Materiales.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_About.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginContra.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginEmpresa.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Login.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_MENU.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Ventas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VerMensajes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.Resources.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.GenerateResource.Cache
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.TrustInfo.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.application
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.pdb
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.config
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.xml
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.pdb
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.manifest
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.application
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.pdb
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.xml
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ActualizacionesConsultar.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_AlertasConsultas.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasCancelar.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Compras.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsultaConsumibles.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Consumibles.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsumiblesDeptos.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_DescargarArchivo.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_EnviarMensajes.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FirmaElectronica.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasReimprimir.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_RemisionesRastreo.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Reporte.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallas.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasConsultar.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasI.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasS.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteVentas.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FoliosAsignados.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumibleSurtir.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumiblesValidar.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudInsumosConsulta.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudInsumosSurtir.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudInsumosValidar.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasValidar.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Dialogo.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VentasCancelar.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Inventario.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Materiales.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_About.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginContra.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginEmpresa.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Login.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_MENU.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Ventas.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VerMensajes.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.Resources.resources
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.GenerateResource.Cache
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.TrustInfo.xml
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe.manifest
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.application
+C:\SIAC\Modulos_LoginCambioConexion\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.config
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.xml
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.pdb
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.manifest
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.application
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.pdb
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.xml
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ActualizacionesConsultar.resources
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_AlertasConsultas.resources
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasCancelar.resources
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Compras.resources
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsultaConsumibles.resources
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Consumibles.resources
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsumiblesDeptos.resources
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_DescargarArchivo.resources
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_EnviarMensajes.resources
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FirmaElectronica.resources
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasReimprimir.resources
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_RemisionesRastreo.resources
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Reporte.resources
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallas.resources
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasConsultar.resources
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasI.resources
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasS.resources
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteVentas.resources
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FoliosAsignados.resources
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumibleSurtir.resources
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumiblesValidar.resources
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudInsumosConsulta.resources
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudInsumosSurtir.resources
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudInsumosValidar.resources
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasValidar.resources
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Dialogo.resources
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VentasCancelar.resources
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Inventario.resources
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Materiales.resources
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_About.resources
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginContra.resources
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginEmpresa.resources
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Login.resources
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_MENU.resources
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Ventas.resources
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VerMensajes.resources
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.Resources.resources
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.GenerateResource.Cache
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.TrustInfo.xml
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe.manifest
+C:\SIAC\Modulos De Correo\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.application
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.config
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.xml
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.pdb
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.manifest
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.application
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.pdb
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.xml
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ActualizacionesConsultar.resources
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_AlertasConsultas.resources
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasCancelar.resources
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Compras.resources
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsultaConsumibles.resources
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Consumibles.resources
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsumiblesDeptos.resources
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_DescargarArchivo.resources
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_EnviarMensajes.resources
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FirmaConexion.resources
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FirmaElectronica.resources
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasReimprimir.resources
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_RemisionesRastreo.resources
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Reporte.resources
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallas.resources
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasConsultar.resources
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasI.resources
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasS.resources
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteVentas.resources
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FoliosAsignados.resources
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Settings.resources
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumibleSurtir.resources
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumiblesValidar.resources
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudInsumosConsulta.resources
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudInsumosSurtir.resources
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudInsumosValidar.resources
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasValidar.resources
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Dialogo.resources
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VentasCancelar.resources
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Inventario.resources
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Materiales.resources
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_About.resources
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginContra.resources
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginEmpresa.resources
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Login.resources
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_MENU.resources
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Ventas.resources
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VerMensajes.resources
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.Resources.resources
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.GenerateResource.Cache
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.TrustInfo.xml
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe.manifest
+C:\SIAC\SIAC_6_Modulos\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.application
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FirmaConexion.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Settings.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsultaOrdenServicio.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Proveedores.resources
+C:\SIAC\Siac\Modulos Modificaciones VRV\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.config
+C:\SIAC\Siac\Modulos Modificaciones VRV\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe
+C:\SIAC\Siac\Modulos Modificaciones VRV\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.xml
+C:\SIAC\Siac\Modulos Modificaciones VRV\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.pdb
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.config
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.xml
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.pdb
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.manifest
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.application
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.pdb
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.xml
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ActualizacionesConsultar.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_AlertasConsultas.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasCancelar.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Compras.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsultaConsumibles.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsultaOrdenServicio.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Consumibles.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsumiblesDeptos.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_DescargarArchivo.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_EnviarMensajes.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FirmaConexion.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FirmaElectronica.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasReimprimir.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Proveedores.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_RemisionesRastreo.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Reporte.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallas.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasConsultar.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasI.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasS.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteVentas.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FoliosAsignados.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Settings.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumibleSurtir.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumiblesValidar.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudInsumosConsulta.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudInsumosSurtir.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudInsumosValidar.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasValidar.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Dialogo.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VentasCancelar.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Inventario.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Materiales.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_About.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginContra.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginEmpresa.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Login.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_MENU.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Ventas.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VerMensajes.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.Resources.resources
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.GenerateResource.Cache
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.TrustInfo.xml
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe.manifest
+C:\SIAC\Modulos_Corregidos_2014\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.application
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.config
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.xml
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.pdb
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.manifest
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.application
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.pdb
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.xml
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ActualizacionesConsultar.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_AlertasConsultas.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasCancelar.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Compras.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsultaConsumibles.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsultaOrdenServicio.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Consumibles.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsumiblesDeptos.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_DescargarArchivo.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_EnviarMensajes.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FirmaConexion.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FirmaElectronica.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasReimprimir.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Proveedores.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_RemisionesRastreo.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Reporte.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallas.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasConsultar.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasI.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasS.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteVentas.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FoliosAsignados.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Settings.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumibleSurtir.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumiblesValidar.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudInsumosConsulta.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasValidar.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Dialogo.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VentasCancelar.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Inventario.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Materiales.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_About.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginContra.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginEmpresa.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Login.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_MENU.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Ventas.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VerMensajes.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.Resources.resources
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.GenerateResource.Cache
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.TrustInfo.xml
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe.manifest
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.application
+C:\SIAC\Siac\Modulos Modificaciones\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe
+C:\SIAC\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.config
+C:\SIAC\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.manifest
+C:\SIAC\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.application
+C:\SIAC\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe
+C:\SIAC\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.pdb
+C:\SIAC\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.xml
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ActualizacionesConsultar.resources
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_AlertasConsultas.resources
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasCancelar.resources
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Compras.resources
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsultaConsumibles.resources
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsultaOrdenServicio.resources
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Consumibles.resources
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsumiblesDeptos.resources
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_DescargarArchivo.resources
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_EnviarMensajes.resources
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FirmaConexion.resources
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FirmaElectronica.resources
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasReimprimir.resources
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Proveedores.resources
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_RemisionesRastreo.resources
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Reporte.resources
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallas.resources
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasConsultar.resources
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasI.resources
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasS.resources
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteVentas.resources
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FoliosAsignados.resources
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Settings.resources
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumibleSurtir.resources
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumiblesValidar.resources
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudInsumosConsulta.resources
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasValidar.resources
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Dialogo.resources
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VentasCancelar.resources
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Inventario.resources
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Materiales.resources
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_About.resources
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginContra.resources
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginEmpresa.resources
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Login.resources
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_MENU.resources
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Ventas.resources
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VerMensajes.resources
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.Resources.resources
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.GenerateResource.Cache
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.TrustInfo.xml
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe.manifest
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.application
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.xml
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.pdb
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.config
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.xml
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.pdb
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.manifest
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.application
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.pdb
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.xml
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ActualizacionesConsultar.resources
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_AlertasConsultas.resources
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasCancelar.resources
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Compras.resources
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsultaConsumibles.resources
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsultaOrdenServicio.resources
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Consumibles.resources
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsumiblesDeptos.resources
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_DescargarArchivo.resources
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_EnviarMensajes.resources
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FirmaConexion.resources
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FirmaElectronica.resources
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasReimprimir.resources
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Proveedores.resources
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_RemisionesRastreo.resources
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Reporte.resources
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallas.resources
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasConsultar.resources
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasI.resources
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasS.resources
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteVentas.resources
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FoliosAsignados.resources
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Settings.resources
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumibleSurtir.resources
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumiblesValidar.resources
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudInsumosConsulta.resources
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasValidar.resources
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Dialogo.resources
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VentasCancelar.resources
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Inventario.resources
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Materiales.resources
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_About.resources
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginContra.resources
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginEmpresa.resources
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Login.resources
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_MENU.resources
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Ventas.resources
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VerMensajes.resources
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.Resources.resources
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.GenerateResource.Cache
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.TrustInfo.xml
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe.manifest
+C:\SIAC\Siac\Modulos para Generar Instaladores\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.application
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasConsulta.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasConsulta.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasDatos.resources
+C:\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasDatos.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SettingsCentral.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Traspasos.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_TraspasosRecibir.resources
+C:\Users\programador4\Documents\SIAC FRAMEWORK 4.5\MODULOS MIGRADOS\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.config
+C:\Users\programador4\Documents\SIAC FRAMEWORK 4.5\MODULOS MIGRADOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe
+C:\Users\programador4\Documents\SIAC FRAMEWORK 4.5\MODULOS MIGRADOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.xml
+C:\Users\programador4\Documents\SIAC FRAMEWORK 4.5\MODULOS MIGRADOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.pdb
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.AssemblyReference.cache
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ActualizacionesConsultar.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_AlertasConsultas.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasCancelar.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Compras.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasConsulta.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasDatos.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsultaConsumibles.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsultaOrdenServicio.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Consumibles.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsumiblesDeptos.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_DescargarArchivo.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_EnviarMensajes.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FirmaConexion.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FirmaElectronica.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasReimprimir.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Proveedores.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_RemisionesRastreo.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Reporte.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallas.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasConsultar.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasI.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasS.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteVentas.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FoliosAsignados.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Settings.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SettingsCentral.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumibleSurtir.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumiblesValidar.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudInsumosConsulta.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasValidar.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Dialogo.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Traspasos.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_TraspasosRecibir.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VentasCancelar.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Inventario.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Materiales.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_About.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginContra.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginEmpresa.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Login.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_MENU.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Ventas.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VerMensajes.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.Resources.resources
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.GenerateResource.cache
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.CoreCompileInputs.cache
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.xml
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.pdb
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.AssemblyReference.cache
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ActualizacionesConsultar.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_AlertasConsultas.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasCancelar.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Compras.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasConsulta.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasDatos.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsultaConsumibles.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsultaOrdenServicio.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Consumibles.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsumiblesDeptos.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_DescargarArchivo.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_EnviarMensajes.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FirmaConexion.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FirmaElectronica.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasReimprimir.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Proveedores.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_RemisionesRastreo.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Reporte.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallas.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasConsultar.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasI.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasS.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteVentas.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FoliosAsignados.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Settings.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SettingsCentral.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumibleSurtir.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumiblesValidar.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudInsumosConsulta.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasValidar.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Dialogo.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Traspasos.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_TraspasosRecibir.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VentasCancelar.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Inventario.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Materiales.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_About.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginContra.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginEmpresa.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Login.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_MENU.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Ventas.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VerMensajes.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.Resources.resources
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.GenerateResource.cache
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.CoreCompileInputs.cache
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.xml
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.pdb
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.config
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.manifest
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.application
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.pdb
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.xml
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.Shared.dll
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\bin\x86\Debug\log4net.dll
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\bin\x86\Debug\log4net.xml
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.TrustInfo.xml
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe.manifest
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.application
+C:\Users\juan.mora\Documents\TrabajosRealizados\3\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.CopyComplete
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.config
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.manifest
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.application
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.pdb
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.xml
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.Shared.dll
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\bin\x86\Debug\log4net.dll
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\bin\x86\Debug\log4net.xml
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.TrustInfo.xml
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe.manifest
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.application
+C:\Users\jesus.ortega\Desktop\Repositorio Local\RemisionDigital\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.CopyComplete
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.config
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.manifest
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.application
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.pdb
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.xml
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.Shared.dll
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\log4net.dll
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\log4net.xml
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.AssemblyReference.cache
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ActualizacionesConsultar.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_AlertasConsultas.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasCancelar.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Compras.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasConsulta.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasDatos.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsultaConsumibles.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsultaOrdenServicio.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Consumibles.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsumiblesDeptos.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_DescargarArchivo.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_EnviarMensajes.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FirmaConexion.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FirmaElectronica.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasReimprimir.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Proveedores.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_RemisionesRastreo.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallas.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasConsultar.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasI.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasS.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteVentas.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FoliosAsignados.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Settings.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SettingsCentral.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumibleSurtir.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumiblesValidar.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudInsumosConsulta.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasValidar.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Dialogo.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudMaterialConsulta.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Traspasos.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_TraspasosRecibir.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VentasCancelar.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Inventario.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Materiales.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_About.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginContra.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginEmpresa.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Login.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_MENU.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Ventas.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VerMensajes.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.Resources.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.GenerateResource.cache
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.CoreCompileInputs.cache
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.TrustInfo.xml
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe.manifest
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.application
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.CopyComplete
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.xml
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.pdb
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudMaterialSurtir.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Reporte.resources
+C:\Users\juan.mora\Documents\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.Form1.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.AssemblyReference.cache
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.Form1.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ActualizacionesConsultar.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_AlertasConsultas.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasCancelar.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Compras.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasConsulta.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasDatos.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsultaConsumibles.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsultaOrdenServicio.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Consumibles.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsumiblesDeptos.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_DescargarArchivo.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_EnviarMensajes.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FirmaConexion.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FirmaElectronica.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasReimprimir.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Proveedores.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_RemisionesRastreo.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Reporte.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallas.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasConsultar.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasI.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasS.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteVentas.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FoliosAsignados.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Settings.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SettingsCentral.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumibleSurtir.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumiblesValidar.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudInsumosConsulta.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasValidar.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Dialogo.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudMaterialConsulta.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudMaterialSurtir.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Traspasos.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_TraspasosRecibir.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VentasCancelar.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Inventario.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Materiales.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_About.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginContra.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginEmpresa.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Login.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_MENU.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Ventas.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VerMensajes.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.Resources.resources
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.GenerateResource.cache
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.CoreCompileInputs.cache
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.xml
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.pdb
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.config
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.manifest
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.application
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.pdb
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.xml
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.Shared.dll
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\ExcelApi.dll
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\log4net.dll
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\NetOffice.dll
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\OfficeApi.dll
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\VBIDEApi.dll
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\stdole.dll
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\AxShockwaveFlashObjects.dll
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\ShockwaveFlashObjects.dll
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\ExcelApi.xml
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\log4net.xml
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\NetOffice.xml
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\OfficeApi.xml
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\bin\x86\Debug\VBIDEApi.xml
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.TrustInfo.xml
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe.manifest
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.application
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.CopyComplete
+C:\Users\juan.mora\Documents\RespaldoMora\Nueva carpeta\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ValidarCompra.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.config
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.manifest
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.application
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.pdb
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.xml
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\bin\x86\Debug\ExcelApi.dll
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\bin\x86\Debug\log4net.dll
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\bin\x86\Debug\NetOffice.dll
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\bin\x86\Debug\OfficeApi.dll
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\bin\x86\Debug\VBIDEApi.dll
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\bin\x86\Debug\stdole.dll
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\bin\x86\Debug\ExcelApi.xml
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\bin\x86\Debug\log4net.xml
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\bin\x86\Debug\NetOffice.xml
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\bin\x86\Debug\OfficeApi.xml
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\bin\x86\Debug\VBIDEApi.xml
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.AssemblyReference.cache
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.Form1.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ActualizacionesConsultar.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_AlertasConsultas.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasCancelar.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Compras.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasConsulta.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasDatos.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsultaConsumibles.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsultaOrdenServicio.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Consumibles.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsumiblesDeptos.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_DescargarArchivo.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_EnviarMensajes.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FirmaConexion.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FirmaElectronica.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasReimprimir.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Proveedores.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_RemisionesRastreo.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Reporte.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallas.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasConsultar.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasI.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasS.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteVentas.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FoliosAsignados.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Settings.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SettingsCentral.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumibleSurtir.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumiblesValidar.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudInsumosConsulta.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasValidar.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Dialogo.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudMaterialConsulta.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudMaterialSurtir.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Traspasos.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_TraspasosRecibir.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ValidarCompra.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VentasCancelar.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Inventario.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Materiales.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_About.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginContra.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginEmpresa.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Login.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_MENU.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Ventas.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VerMensajes.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.Resources.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.GenerateResource.cache
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.CoreCompileInputs.cache
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.TrustInfo.xml
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe.manifest
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.application
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.CopyComplete
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.xml
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\InvetarioRequest\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.pdb
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.config
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.manifest
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.application
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.pdb
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.xml
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\bin\x86\Debug\ExcelApi.dll
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\bin\x86\Debug\log4net.dll
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\bin\x86\Debug\NetOffice.dll
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\bin\x86\Debug\OfficeApi.dll
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\bin\x86\Debug\VBIDEApi.dll
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\bin\x86\Debug\stdole.dll
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\bin\x86\Debug\ExcelApi.xml
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\bin\x86\Debug\log4net.xml
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\bin\x86\Debug\NetOffice.xml
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\bin\x86\Debug\OfficeApi.xml
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\bin\x86\Debug\VBIDEApi.xml
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.AssemblyReference.cache
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.Form1.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ActualizacionesConsultar.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_AlertasConsultas.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasCancelar.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Compras.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasConsulta.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasDatos.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsultaConsumibles.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsultaOrdenServicio.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Consumibles.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsumiblesDeptos.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_DescargarArchivo.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_EnviarMensajes.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FirmaConexion.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FirmaElectronica.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasReimprimir.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Proveedores.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_RemisionesRastreo.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Reporte.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallas.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasConsultar.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasI.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasS.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteVentas.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FoliosAsignados.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Settings.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SettingsCentral.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumibleSurtir.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumiblesValidar.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudInsumosConsulta.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasValidar.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Dialogo.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudMaterialConsulta.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudMaterialSurtir.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Traspasos.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_TraspasosRecibir.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ValidarCompra.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VentasCancelar.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Inventario.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Materiales.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_About.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginContra.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginEmpresa.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Login.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_MENU.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Ventas.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VerMensajes.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.Resources.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.GenerateResource.cache
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.CoreCompileInputs.cache
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.TrustInfo.xml
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe.manifest
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.application
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.CopyComplete
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.xml
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.pdb
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.Form1.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ActualizacionesConsultar.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_AlertasConsultas.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasCancelar.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Compras.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasConsulta.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasDatos.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsultaConsumibles.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsultaOrdenServicio.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Consumibles.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsumiblesDeptos.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_DescargarArchivo.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_EnviarMensajes.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FirmaConexion.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FirmaElectronica.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasReimprimir.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Proveedores.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_RemisionesRastreo.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Reporte.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallas.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasConsultar.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasI.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasS.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteVentas.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FoliosAsignados.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Settings.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SettingsCentral.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumibleSurtir.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumiblesValidar.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudInsumosConsulta.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasValidar.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Dialogo.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudMaterialConsulta.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudMaterialSurtir.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Traspasos.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_TraspasosRecibir.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ValidarCompra.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VentasCancelar.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Inventario.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Materiales.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_About.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginContra.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginEmpresa.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Login.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_MENU.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Ventas.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VerMensajes.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.Resources.resources
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.GenerateResource.cache
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.CoreCompileInputs.cache
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.config
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.manifest
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.application
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.pdb
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.xml
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.Shared.dll
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\bin\x86\Debug\ExcelApi.dll
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\bin\x86\Debug\log4net.dll
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\bin\x86\Debug\NetOffice.dll
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\bin\x86\Debug\OfficeApi.dll
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\bin\x86\Debug\VBIDEApi.dll
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\bin\x86\Debug\stdole.dll
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\bin\x86\Debug\AxShockwaveFlashObjects.dll
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\bin\x86\Debug\ShockwaveFlashObjects.dll
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\bin\x86\Debug\ExcelApi.xml
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\bin\x86\Debug\log4net.xml
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\bin\x86\Debug\NetOffice.xml
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\bin\x86\Debug\OfficeApi.xml
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\bin\x86\Debug\VBIDEApi.xml
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.TrustInfo.xml
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe.manifest
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.application
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.CopyComplete
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.xml
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.pdb
+C:\Users\juan.mora\Desktop\Proyecto almacen\EJEMPLOS MATERIALES CENTRAL\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.AssemblyReference.cache
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.config
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.manifest
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.application
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.pdb
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.xml
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.Shared.dll
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\bin\x86\Debug\ExcelApi.dll
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\bin\x86\Debug\log4net.dll
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\bin\x86\Debug\NetOffice.dll
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\bin\x86\Debug\OfficeApi.dll
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\bin\x86\Debug\VBIDEApi.dll
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\bin\x86\Debug\stdole.dll
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\bin\x86\Debug\AxShockwaveFlashObjects.dll
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\bin\x86\Debug\ShockwaveFlashObjects.dll
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\bin\x86\Debug\ExcelApi.xml
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\bin\x86\Debug\log4net.xml
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\bin\x86\Debug\NetOffice.xml
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\bin\x86\Debug\OfficeApi.xml
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\bin\x86\Debug\VBIDEApi.xml
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.Form1.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ActualizacionesConsultar.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_AlertasConsultas.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasCancelar.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Compras.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasConsulta.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasDatos.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsultaConsumibles.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsultaOrdenServicio.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Consumibles.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsumiblesDeptos.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_DescargarArchivo.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_EnviarMensajes.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FirmaConexion.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FirmaElectronica.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasReimprimir.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Proveedores.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_RemisionesRastreo.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Reporte.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallas.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasConsultar.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasI.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasS.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteVentas.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FoliosAsignados.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Settings.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SettingsCentral.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumibleSurtir.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumiblesValidar.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudInsumosConsulta.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasValidar.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Dialogo.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudMaterialConsulta.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudMaterialSurtir.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Traspasos.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_TraspasosRecibir.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ValidarCompra.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VentasCancelar.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Inventario.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Materiales.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_About.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginContra.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginEmpresa.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Login.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_MENU.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Ventas.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VerMensajes.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.Resources.resources
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.GenerateResource.cache
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.CoreCompileInputs.cache
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.TrustInfo.xml
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe.manifest
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.application
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.CopyComplete
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.xml
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.pdb
+C:\Users\juan.mora\Desktop\Alamacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.AssemblyReference.cache
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.config
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.manifest
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.application
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.pdb
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.xml
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.Shared.dll
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\bin\x86\Debug\ExcelApi.dll
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\bin\x86\Debug\log4net.dll
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\bin\x86\Debug\NetOffice.dll
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\bin\x86\Debug\OfficeApi.dll
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\bin\x86\Debug\VBIDEApi.dll
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\bin\x86\Debug\stdole.dll
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\bin\x86\Debug\AxShockwaveFlashObjects.dll
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\bin\x86\Debug\ShockwaveFlashObjects.dll
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\bin\x86\Debug\ExcelApi.xml
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\bin\x86\Debug\log4net.xml
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\bin\x86\Debug\NetOffice.xml
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\bin\x86\Debug\OfficeApi.xml
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\bin\x86\Debug\VBIDEApi.xml
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.AssemblyReference.cache
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.Form1.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ActualizacionesConsultar.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_AlertasConsultas.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasCancelar.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Compras.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasConsulta.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasDatos.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsultaConsumibles.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsultaOrdenServicio.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Consumibles.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsumiblesDeptos.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_DescargarArchivo.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_EnviarMensajes.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FirmaConexion.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FirmaElectronica.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasReimprimir.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Proveedores.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_RemisionesRastreo.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Reporte.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallas.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasConsultar.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasI.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasS.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteVentas.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FoliosAsignados.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Settings.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SettingsCentral.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumibleSurtir.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumiblesValidar.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudInsumosConsulta.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasValidar.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Dialogo.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudMaterialConsulta.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudMaterialSurtir.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Traspasos.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_TraspasosRecibir.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ValidarCompra.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VentasCancelar.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Inventario.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Materiales.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_About.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginContra.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginEmpresa.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Login.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_MENU.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Ventas.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VerMensajes.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.Resources.resources
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.GenerateResource.cache
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.CoreCompileInputs.cache
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.TrustInfo.xml
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe.manifest
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.application
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.CopyComplete
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.xml
+C:\Users\juan.mora\Desktop\Almacen\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.pdb
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.config
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.manifest
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.application
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.pdb
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.xml
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.Shared.dll
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\bin\x86\Debug\ExcelApi.dll
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\bin\x86\Debug\log4net.dll
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\bin\x86\Debug\NetOffice.dll
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\bin\x86\Debug\OfficeApi.dll
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\bin\x86\Debug\VBIDEApi.dll
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\bin\x86\Debug\stdole.dll
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\bin\x86\Debug\AxShockwaveFlashObjects.dll
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\bin\x86\Debug\ShockwaveFlashObjects.dll
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\bin\x86\Debug\ExcelApi.xml
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\bin\x86\Debug\log4net.xml
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\bin\x86\Debug\NetOffice.xml
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\bin\x86\Debug\OfficeApi.xml
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\bin\x86\Debug\VBIDEApi.xml
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.Form1.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ActualizacionesConsultar.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_AlertasConsultas.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasCancelar.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Compras.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasConsulta.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasDatos.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsultaConsumibles.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsultaOrdenServicio.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Consumibles.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsumiblesDeptos.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_DescargarArchivo.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_EnviarMensajes.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FirmaConexion.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FirmaElectronica.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasReimprimir.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Proveedores.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_RemisionesRastreo.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Reporte.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallas.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasConsultar.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasI.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasS.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteVentas.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FoliosAsignados.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Settings.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SettingsCentral.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumibleSurtir.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumiblesValidar.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudInsumosConsulta.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasValidar.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Dialogo.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudMaterialConsulta.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudMaterialSurtir.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Traspasos.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_TraspasosRecibir.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ValidarCompra.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VentasCancelar.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Inventario.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Materiales.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_About.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginContra.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginEmpresa.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Login.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_MENU.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Ventas.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VerMensajes.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.Resources.resources
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.GenerateResource.cache
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.CoreCompileInputs.cache
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.TrustInfo.xml
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe.manifest
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.application
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.CopyComplete
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.xml
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.pdb
+C:\Users\juan.mora\Desktop\Materiales Central\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteTraspaso.resources
+C:\Users\jesus.ortega\Desktop\RESPALDOJ\SISSA\PROYECTOS\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteTraspaso.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.config
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.manifest
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.application
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.pdb
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.xml
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\bin\x86\Debug\ExcelApi.dll
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\bin\x86\Debug\log4net.dll
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\bin\x86\Debug\NetOffice.dll
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\bin\x86\Debug\OfficeApi.dll
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\bin\x86\Debug\VBIDEApi.dll
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\bin\x86\Debug\stdole.dll
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\bin\x86\Debug\ExcelApi.xml
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\bin\x86\Debug\log4net.xml
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\bin\x86\Debug\NetOffice.xml
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\bin\x86\Debug\OfficeApi.xml
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\bin\x86\Debug\VBIDEApi.xml
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.AssemblyReference.cache
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.Form1.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ActualizacionesConsultar.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_AlertasConsultas.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasCancelar.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Compras.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasConsulta.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasDatos.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsultaConsumibles.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsultaOrdenServicio.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Consumibles.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsumiblesDeptos.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_DescargarArchivo.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_EnviarMensajes.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FirmaConexion.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FirmaElectronica.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasReimprimir.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Proveedores.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_RemisionesRastreo.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Reporte.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallas.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasConsultar.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasI.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasS.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteTraspaso.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteVentas.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FoliosAsignados.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Settings.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SettingsCentral.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumibleSurtir.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumiblesValidar.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudInsumosConsulta.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasValidar.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Dialogo.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudMaterialConsulta.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudMaterialSurtir.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Traspasos.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_TraspasosRecibir.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ValidarCompra.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VentasCancelar.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Inventario.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Materiales.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_About.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginContra.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginEmpresa.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Login.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_MENU.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Ventas.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VerMensajes.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.Resources.resources
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.GenerateResource.cache
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.CoreCompileInputs.cache
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.TrustInfo.xml
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe.manifest
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.application
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.CopyComplete
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.xml
+D:\REPOSITORY\SOURCE CODE\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.pdb
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.config
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.manifest
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.application
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.pdb
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.xml
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\bin\x86\Debug\ExcelApi.dll
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\bin\x86\Debug\log4net.dll
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\bin\x86\Debug\NetOffice.dll
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\bin\x86\Debug\OfficeApi.dll
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\bin\x86\Debug\VBIDEApi.dll
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\bin\x86\Debug\stdole.dll
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\bin\x86\Debug\ExcelApi.xml
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\bin\x86\Debug\log4net.xml
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\bin\x86\Debug\NetOffice.xml
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\bin\x86\Debug\OfficeApi.xml
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\bin\x86\Debug\VBIDEApi.xml
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.AssemblyReference.cache
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.Form1.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ActualizacionesConsultar.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_AlertasConsultas.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasCancelar.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Compras.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasConsulta.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasDatos.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsultaConsumibles.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsultaOrdenServicio.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Consumibles.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsumiblesDeptos.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_DescargarArchivo.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_EnviarMensajes.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FirmaConexion.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FirmaElectronica.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasReimprimir.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Proveedores.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_RemisionesRastreo.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Reporte.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallas.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasConsultar.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasI.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasS.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteTraspaso.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteVentas.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FoliosAsignados.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Settings.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SettingsCentral.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumibleSurtir.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumiblesValidar.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudInsumosConsulta.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasValidar.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Dialogo.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudMaterialConsulta.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudMaterialSurtir.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Traspasos.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_TraspasosRecibir.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ValidarCompra.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VentasCancelar.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Inventario.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Materiales.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_About.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginContra.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginEmpresa.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Login.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_MENU.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Ventas.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VerMensajes.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.Resources.resources
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.GenerateResource.cache
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.CoreCompileInputs.cache
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.TrustInfo.xml
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe.manifest
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.application
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.CopyComplete
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.xml
+C:\Users\jesus.ortega\Desktop\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.pdb
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.config
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe.manifest
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.application
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.exe
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.pdb
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\bin\x86\Debug\Modulo Materiales Central.xml
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.Shared.dll
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\bin\x86\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\bin\x86\Debug\ExcelApi.dll
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\bin\x86\Debug\log4net.dll
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\bin\x86\Debug\NetOffice.dll
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\bin\x86\Debug\OfficeApi.dll
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\bin\x86\Debug\VBIDEApi.dll
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\bin\x86\Debug\stdole.dll
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\bin\x86\Debug\AxShockwaveFlashObjects.dll
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\bin\x86\Debug\ShockwaveFlashObjects.dll
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\bin\x86\Debug\ExcelApi.xml
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\bin\x86\Debug\log4net.xml
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\bin\x86\Debug\NetOffice.xml
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\bin\x86\Debug\OfficeApi.xml
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\bin\x86\Debug\VBIDEApi.xml
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.AssemblyReference.cache
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.Form1.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ActualizacionesConsultar.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_AlertasConsultas.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasCancelar.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Compras.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasConsulta.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasDatos.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsultaConsumibles.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsultaOrdenServicio.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Consumibles.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsumiblesDeptos.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_DescargarArchivo.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_EnviarMensajes.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FirmaConexion.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FirmaElectronica.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasReimprimir.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Proveedores.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_RemisionesRastreo.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Reporte.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallas.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasConsultar.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasI.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasS.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteTraspaso.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteVentas.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FoliosAsignados.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Settings.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SettingsCentral.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumibleSurtir.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumiblesValidar.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudInsumosConsulta.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasValidar.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Dialogo.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudMaterialConsulta.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudMaterialSurtir.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Traspasos.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_TraspasosRecibir.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ValidarCompra.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VentasCancelar.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Inventario.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Materiales.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_About.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginContra.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginEmpresa.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Login.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_MENU.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Ventas.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VerMensajes.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.Resources.resources
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.GenerateResource.cache
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.CoreCompileInputs.cache
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.TrustInfo.xml
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe.manifest
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.application
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.CopyComplete
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.exe
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.xml
+C:\Users\juan.mora\Documents\Mayo\Modulo_Materiales_Central\obj\x86\Debug\Modulo Materiales Central.pdb

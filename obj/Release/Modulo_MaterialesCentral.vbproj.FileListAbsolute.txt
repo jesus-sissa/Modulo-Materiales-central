@@ -1,0 +1,35 @@
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\bin\Release\Modulo Materiales Central.exe.config
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Release\Modulo_MaterialesCentral.vbproj.ResolveComReference.cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\bin\Release\Modulo Materiales Central.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\bin\Release\Modulo Materiales Central.application
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\bin\Release\Modulo Materiales Central.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\bin\Release\Modulo Materiales Central.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\bin\Release\Modulo Materiales Central.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\bin\Release\office.dll
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\bin\Release\Microsoft.Vbe.Interop.dll
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Release\ResolveAssemblyReference.cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Release\Modulo_MaterialesCentral.frm_CancelarCompras.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Release\Modulo_MaterialesCentral.frm_Compras_Materiales.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Release\Modulo_MaterialesCentral.frm_EnviarMensajes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Release\Modulo_MaterialesCentral.frm_FirmaElectronica.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Release\Modulo_MaterialesCentral.frm_ValidarCompras.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Release\Modulo_MaterialesCentral.frm_Dialogo.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Release\Modulo_MaterialesCentral.frm_Cancela_Ventas_Materiales.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Release\Modulo_MaterialesCentral.frm_Inv_Materiales.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Release\Modulo_MaterialesCentral.frm_Materiales.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Release\Modulo_MaterialesCentral.frm_About.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Release\Modulo_MaterialesCentral.frm_LoginContra.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Release\Modulo_MaterialesCentral.frm_LoginEmpresa.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Release\Modulo_MaterialesCentral.frm_Login.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Release\Modulo_MaterialesCentral.frm_MENU.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Release\Modulo_MaterialesCentral.frm_Ventas_Materiales.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Release\Modulo_MaterialesCentral.frm_VerMensajes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Release\Modulo_MaterialesCentral.Resources.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Release\Modulo_MaterialesCentral.vbproj.GenerateResource.Cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Release\Modulo Materiales Central.TrustInfo.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Release\Modulo Materiales Central.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Release\Modulo Materiales Central.application
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Release\Modulo Materiales Central.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Release\Modulo Materiales Central.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Release\Modulo Materiales Central.pdb

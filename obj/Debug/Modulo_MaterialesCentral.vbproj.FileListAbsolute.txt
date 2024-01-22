@@ -1,0 +1,184 @@
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\bin\Debug\Modulo Materiales Central.exe.config
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Debug\Modulo Materiales Central.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Debug\Modulo Materiales Central.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Debug\Modulo Materiales Central.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\bin\Debug\Modulo Materiales Central.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\bin\Debug\Modulo Materiales Central.application
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\bin\Debug\Modulo Materiales Central.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\bin\Debug\Modulo Materiales Central.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\bin\Debug\Modulo Materiales Central.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Debug\ResolveAssemblyReference.cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_CancelarCompras.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_Compras_Materiales.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_EnviarMensajes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_FirmaElectronica.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_ValidarCompras.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_Dialogo.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_Cancela_Ventas_Materiales.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_Inv_Materiales.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_Materiales.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_About.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_LoginContra.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_LoginEmpresa.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_Login.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_MENU.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_Ventas_Materiales.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_VerMensajes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.Resources.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.vbproj.GenerateResource.Cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Debug\Modulo Materiales Central.TrustInfo.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Debug\Modulo Materiales Central.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Debug\Modulo Materiales Central.application
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_Reporte.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_ReimprimirCompras.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_ReporteFallas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_ActualizacionesConsultar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_ReporteFallasS.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_ReporteVentas.resources
+C:\SIAC\SIAC\Modulo_Materiales_Central\bin\Debug\Modulo Materiales Central.exe.config
+C:\SIAC\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo Materiales Central.exe
+C:\SIAC\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo Materiales Central.xml
+C:\SIAC\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo Materiales Central.pdb
+C:\SIAC\SIAC\Modulo_Materiales_Central\bin\Debug\Modulo Materiales Central.exe.manifest
+C:\SIAC\SIAC\Modulo_Materiales_Central\bin\Debug\Modulo Materiales Central.application
+C:\SIAC\SIAC\Modulo_Materiales_Central\bin\Debug\Modulo Materiales Central.exe
+C:\SIAC\SIAC\Modulo_Materiales_Central\bin\Debug\Modulo Materiales Central.pdb
+C:\SIAC\SIAC\Modulo_Materiales_Central\bin\Debug\Modulo Materiales Central.xml
+C:\SIAC\SIAC\Modulo_Materiales_Central\obj\Debug\ResolveAssemblyReference.cache
+C:\SIAC\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_ActualizacionesConsultar.resources
+C:\SIAC\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_AlertasConsultas.resources
+C:\SIAC\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_ComprasCancelar.resources
+C:\SIAC\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_Compras.resources
+C:\SIAC\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_EnviarMensajes.resources
+C:\SIAC\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_FirmaElectronica.resources
+C:\SIAC\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_ComprasReimprimir.resources
+C:\SIAC\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_Reporte.resources
+C:\SIAC\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_ReporteFallas.resources
+C:\SIAC\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_ReporteFallasConsultar.resources
+C:\SIAC\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_ReporteFallasI.resources
+C:\SIAC\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_ReporteFallasS.resources
+C:\SIAC\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_ReporteVentas.resources
+C:\SIAC\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_SolicitudInsumosConsulta.resources
+C:\SIAC\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_SolicitudInsumosSurtir.resources
+C:\SIAC\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_SolicitudInsumosValidar.resources
+C:\SIAC\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_ComprasValidar.resources
+C:\SIAC\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_Dialogo.resources
+C:\SIAC\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_VentasCancelar.resources
+C:\SIAC\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_Inventario.resources
+C:\SIAC\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_Materiales.resources
+C:\SIAC\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_About.resources
+C:\SIAC\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_LoginContra.resources
+C:\SIAC\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_LoginEmpresa.resources
+C:\SIAC\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_Login.resources
+C:\SIAC\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_MENU.resources
+C:\SIAC\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_Ventas.resources
+C:\SIAC\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_VerMensajes.resources
+C:\SIAC\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.Resources.resources
+C:\SIAC\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.vbproj.GenerateResource.Cache
+C:\SIAC\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo Materiales Central.TrustInfo.xml
+C:\SIAC\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo Materiales Central.exe.manifest
+C:\SIAC\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo Materiales Central.application
+C:\SIAC\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_FoliosAsignados.resources
+C:\SIAC\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_RemisionesRastreo.resources
+C:\SIAC\Modulo_Materiales_Central\bin\Debug\Modulo Materiales Central.exe.config
+C:\SIAC\Modulo_Materiales_Central\bin\Debug\Modulo Materiales Central.exe.manifest
+C:\SIAC\Modulo_Materiales_Central\bin\Debug\Modulo Materiales Central.application
+C:\SIAC\Modulo_Materiales_Central\bin\Debug\Modulo Materiales Central.exe
+C:\SIAC\Modulo_Materiales_Central\bin\Debug\Modulo Materiales Central.pdb
+C:\SIAC\Modulo_Materiales_Central\bin\Debug\Modulo Materiales Central.xml
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\ResolveAssemblyReference.cache
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_ActualizacionesConsultar.resources
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_AlertasConsultas.resources
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_ComprasCancelar.resources
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_Compras.resources
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_ConsultaConsumibles.resources
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_Consumibles.resources
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_ConsumiblesDeptos.resources
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_EnviarMensajes.resources
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_FirmaElectronica.resources
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_ComprasReimprimir.resources
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_RemisionesRastreo.resources
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_Reporte.resources
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_ReporteFallas.resources
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_ReporteFallasConsultar.resources
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_ReporteFallasI.resources
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_ReporteFallasS.resources
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_ReporteVentas.resources
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_FoliosAsignados.resources
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumibleSurtir.resources
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumiblesValidar.resources
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_SolicitudInsumosConsulta.resources
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_SolicitudInsumosSurtir.resources
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_SolicitudInsumosValidar.resources
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_ComprasValidar.resources
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_Dialogo.resources
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_VentasCancelar.resources
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_Inventario.resources
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_Materiales.resources
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_About.resources
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_LoginContra.resources
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_LoginEmpresa.resources
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_Login.resources
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_MENU.resources
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_Ventas.resources
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_VerMensajes.resources
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.Resources.resources
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.vbproj.GenerateResource.Cache
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo Materiales Central.TrustInfo.xml
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo Materiales Central.exe.manifest
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo Materiales Central.application
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo Materiales Central.exe
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo Materiales Central.xml
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo Materiales Central.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\bin\Debug\Modulo Materiales Central.exe.config
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\bin\Debug\Modulo Materiales Central.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\bin\Debug\Modulo Materiales Central.application
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\bin\Debug\Modulo Materiales Central.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\bin\Debug\Modulo Materiales Central.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\bin\Debug\Modulo Materiales Central.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\ResolveAssemblyReference.cache
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_ActualizacionesConsultar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_AlertasConsultas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_ComprasCancelar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_Compras.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_ConsultaConsumibles.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_Consumibles.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_ConsumiblesDeptos.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_EnviarMensajes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_FirmaElectronica.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_ComprasReimprimir.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_RemisionesRastreo.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_Reporte.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_ReporteFallas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_ReporteFallasConsultar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_ReporteFallasI.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_ReporteFallasS.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_ReporteVentas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_FoliosAsignados.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumibleSurtir.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumiblesValidar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_SolicitudInsumosConsulta.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_SolicitudInsumosSurtir.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_SolicitudInsumosValidar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_ComprasValidar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_Dialogo.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_VentasCancelar.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_Inventario.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_Materiales.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_About.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_LoginContra.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_LoginEmpresa.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_Login.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_MENU.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_Ventas.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_VerMensajes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.Resources.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.vbproj.GenerateResource.Cache
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo Materiales Central.TrustInfo.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo Materiales Central.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo Materiales Central.application
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo Materiales Central.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo Materiales Central.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo Materiales Central.pdb
+C:\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_DescargarArchivo.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\SIAC\Modulo_Materiales_Central\obj\Debug\Modulo_MaterialesCentral.frm_DescargarArchivo.resources

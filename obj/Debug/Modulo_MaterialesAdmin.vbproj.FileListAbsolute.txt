@@ -1,0 +1,44 @@
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\obj\Debug\Modulo_MaterialesAdmin.vbproj.ResolveComReference.cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\bin\Debug\Modulo Materiales Central.exe.config
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\bin\Debug\Modulo Materiales Central.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\bin\Debug\Modulo Materiales Central.application
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\bin\Debug\Modulo Materiales Central.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\bin\Debug\Modulo Materiales Central.pdb
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\bin\Debug\Modulo Materiales Central.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\bin\Debug\office.dll
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\obj\Debug\ResolveAssemblyReference.cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\obj\Debug\Modulo_MaterialesCentral.frm_CancelarCompras.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\obj\Debug\Modulo_MaterialesCentral.frm_Compras_Materiales.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\obj\Debug\Modulo_MaterialesCentral.frm_EnviarMensajes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\obj\Debug\Modulo_MaterialesCentral.frm_RotulaFolio.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\obj\Debug\Modulo_MaterialesCentral.frm_RotulaRemisiones.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\obj\Debug\Modulo_MaterialesCentral.frm_FirmaElectronica.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\obj\Debug\Modulo_MaterialesCentral.frm_ValidarCompras.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\obj\Debug\Modulo_MaterialesCentral.frm_ValidarEnvioaMensajero.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\obj\Debug\Modulo_MaterialesCentral.frm_CancelaEnvioaMensajero.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\obj\Debug\Modulo_MaterialesCentral.frm_EnviaraMensajero.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\obj\Debug\Modulo_MaterialesCentral.frm_RecibirLotes_Boveda.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\obj\Debug\Modulo_MaterialesCentral.frm_CancelaEnvioaBoveda.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\obj\Debug\Modulo_MaterialesCentral.frm_Dialogo.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\obj\Debug\Modulo_MaterialesCentral.frm_EnviaraBoveda.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\obj\Debug\Modulo_MaterialesCentral.frm_Cancela_Ventas_Materiales.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\obj\Debug\Modulo_MaterialesCentral.frm_Inv_Materiales.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\obj\Debug\Modulo_MaterialesCentral.frm_Materiales.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\obj\Debug\Modulo_MaterialesCentral.frm_About.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\obj\Debug\Modulo_MaterialesCentral.frm_LoginContra.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\obj\Debug\Modulo_MaterialesCentral.frm_LoginEmpresa.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\obj\Debug\Modulo_MaterialesCentral.frm_Login.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\obj\Debug\Modulo_MaterialesCentral.frm_MENU.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\obj\Debug\Modulo_MaterialesCentral.frm_Valida_Ventas_Materiales.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\obj\Debug\Modulo_MaterialesCentral.frm_Ventas_Materiales.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\obj\Debug\Modulo_MaterialesCentral.frm_VerMensajes.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\obj\Debug\Modulo_MaterialesCentral.Resources.resources
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\obj\Debug\Modulo_MaterialesAdmin.vbproj.GenerateResource.Cache
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\obj\Debug\Modulo Materiales Central.TrustInfo.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\obj\Debug\Modulo Materiales Central.exe.manifest
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\obj\Debug\Modulo Materiales Central.application
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\obj\Debug\Modulo Materiales Central.exe
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\obj\Debug\Modulo Materiales Central.xml
+C:\My Documents\SISSA\Nuevo Desarrollo\Sirc\Modulo_MaterialesAdmin\obj\Debug\Modulo Materiales Central.pdb
