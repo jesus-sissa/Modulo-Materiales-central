@@ -2966,6 +2966,41 @@ Validar:
         End Try
     End Function
 
+
+    Public Shared Function fn_ValidarSolicitudesConsumibles_resgresarStatus(ByVal Id_Solicitud As Integer, ByVal Dt As DataTable, ByVal Status As Char) As Boolean
+        Dim Cnn As SqlConnection = Crea_ConexionSTD()
+        Dim Tr As SqlTransaction = crear_Trans(Cnn)
+
+        Dim Cmd As SqlCommand
+        Try
+            'Cambiar el Status de Mat_Solicitudes
+            Cmd = Crea_ComandoT(Cnn, Tr, CommandType.StoredProcedure, "Mat_Solicitudes_Regresar")
+            Crea_Parametro(Cmd, "@Id_Solicitud", SqlDbType.Int, Id_Solicitud)
+            Crea_Parametro(Cmd, "@Id_Sucursal", SqlDbType.Int, SucursalId)
+            Crea_Parametro(Cmd, "@Status", SqlDbType.VarChar, Status)
+            EjecutarNonQueryT(Cmd)
+
+            'Actualizar Mat_SolicitudesD
+            For Each Fila As DataRow In Dt.Rows
+                Cmd = Crea_ComandoT(Cnn, Tr, CommandType.StoredProcedure, "Mat_SolicitudesD_Regresar")
+                Crea_Parametro(Cmd, "@Id_Solicitud", SqlDbType.Int, Fila("Id_Solicitud"))
+                Crea_Parametro(Cmd, "@Id_Consumible", SqlDbType.Int, Fila("Id_Consumible"))
+                Crea_Parametro(Cmd, "@Status", SqlDbType.VarChar, Status)
+                EjecutarNonQueryT(Cmd)
+            Next
+
+            Tr.Commit()
+            Cmd.Dispose()
+            Return True
+        Catch ex As Exception
+            Tr.Rollback()
+            Cmd.Dispose()
+            TrataEx(ex)
+            Return False
+        End Try
+    End Function
+
+
     Public Shared Function fn_CuentaTotalesXConsumibles(ByVal lsv As cp_Listview, ByVal Ids_Solicitudes As String) As Boolean
         Dim cnn As SqlConnection = Crea_ConexionSTD()
         Try
@@ -3793,15 +3828,15 @@ Validar:
                     lc_dt.Rows.Add(lc_dr)
                     fn_TraspasoMateriales_Guardar(0, 4, fn_Fecha102(fechaActual.ToString), Interno, lc_dt)
                     Filas_Afectadas = EjecutarNonQueryT(cmd)
-
-
+                Else
+                    Filas_Afectadas = EjecutarNonQueryT(cmd)
                 End If
             Next
             'If Elemento.SubItems(3).Text = "S" Then
             'Else
             'fn_TraspasoMateriales_Guardar(0, 4, fn_Fecha102(fechaActual.ToString), Interno, lc_dt, Elemento.SubItems(3).Text)
             'End If
-            Filas_Afectadas = EjecutarNonQueryT(cmd)
+            'Filas_Afectadas = EjecutarNonQueryT(cmd)
             Tr_Local.Commit()
         Catch Err2 As Exception
             Tr_Local.Rollback()

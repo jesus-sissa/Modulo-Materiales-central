@@ -36,12 +36,13 @@ Partial Class frm_SolicitudConsumibleSurtir
         Me.Observaciones = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.Status = New System.Windows.Forms.DataGridViewTextBoxColumn()
         Me.Gbx_Botones = New System.Windows.Forms.GroupBox()
+        Me.btn_CancelarSolicitud = New System.Windows.Forms.Button()
         Me.btn_Surtir = New System.Windows.Forms.Button()
         Me.btn_Cerrar = New System.Windows.Forms.Button()
         Me.Gbx_Solicitudes = New System.Windows.Forms.GroupBox()
         Me.Lbl_Registros = New System.Windows.Forms.Label()
         Me.lsv_Solicitudes = New Modulo_MaterialesCentral.cp_Listview()
-        Me.btn_CancelarSolicitud = New System.Windows.Forms.Button()
+        Me.Btn_regresar = New System.Windows.Forms.Button()
         Me.Gbx_Lista.SuspendLayout()
         CType(Me.dgv_Detalle, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.Gbx_Botones.SuspendLayout()
@@ -131,6 +132,7 @@ Partial Class frm_SolicitudConsumibleSurtir
         '
         Me.Gbx_Botones.Anchor = CType(((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left) _
             Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
+        Me.Gbx_Botones.Controls.Add(Me.Btn_regresar)
         Me.Gbx_Botones.Controls.Add(Me.btn_CancelarSolicitud)
         Me.Gbx_Botones.Controls.Add(Me.btn_Surtir)
         Me.Gbx_Botones.Controls.Add(Me.btn_Cerrar)
@@ -139,6 +141,20 @@ Partial Class frm_SolicitudConsumibleSurtir
         Me.Gbx_Botones.Size = New System.Drawing.Size(784, 50)
         Me.Gbx_Botones.TabIndex = 7
         Me.Gbx_Botones.TabStop = False
+        '
+        'btn_CancelarSolicitud
+        '
+        Me.btn_CancelarSolicitud.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
+        Me.btn_CancelarSolicitud.Enabled = False
+        Me.btn_CancelarSolicitud.Image = Global.Modulo_MaterialesCentral.My.Resources.Resources.Baja
+        Me.btn_CancelarSolicitud.Location = New System.Drawing.Point(162, 14)
+        Me.btn_CancelarSolicitud.Name = "btn_CancelarSolicitud"
+        Me.btn_CancelarSolicitud.Size = New System.Drawing.Size(140, 30)
+        Me.btn_CancelarSolicitud.TabIndex = 2
+        Me.btn_CancelarSolicitud.Text = "&Cancelar Solicitud"
+        Me.btn_CancelarSolicitud.TextAlign = System.Drawing.ContentAlignment.MiddleRight
+        Me.btn_CancelarSolicitud.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
+        Me.btn_CancelarSolicitud.UseVisualStyleBackColor = True
         '
         'btn_Surtir
         '
@@ -220,19 +236,19 @@ Partial Class frm_SolicitudConsumibleSurtir
         Me.lsv_Solicitudes.UseCompatibleStateImageBehavior = False
         Me.lsv_Solicitudes.View = System.Windows.Forms.View.Details
         '
-        'btn_CancelarSolicitud
+        'Btn_regresar
         '
-        Me.btn_CancelarSolicitud.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
-        Me.btn_CancelarSolicitud.Enabled = False
-        Me.btn_CancelarSolicitud.Image = Global.Modulo_MaterialesCentral.My.Resources.Resources.Baja
-        Me.btn_CancelarSolicitud.Location = New System.Drawing.Point(162, 14)
-        Me.btn_CancelarSolicitud.Name = "btn_CancelarSolicitud"
-        Me.btn_CancelarSolicitud.Size = New System.Drawing.Size(140, 30)
-        Me.btn_CancelarSolicitud.TabIndex = 2
-        Me.btn_CancelarSolicitud.Text = "&Cancelar Solicitud"
-        Me.btn_CancelarSolicitud.TextAlign = System.Drawing.ContentAlignment.MiddleRight
-        Me.btn_CancelarSolicitud.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
-        Me.btn_CancelarSolicitud.UseVisualStyleBackColor = True
+        Me.Btn_regresar.Anchor = CType((System.Windows.Forms.AnchorStyles.Bottom Or System.Windows.Forms.AnchorStyles.Left), System.Windows.Forms.AnchorStyles)
+        Me.Btn_regresar.Enabled = False
+        Me.Btn_regresar.Image = Global.Modulo_MaterialesCentral.My.Resources.Resources.Cancelar
+        Me.Btn_regresar.Location = New System.Drawing.Point(318, 14)
+        Me.Btn_regresar.Name = "Btn_regresar"
+        Me.Btn_regresar.Size = New System.Drawing.Size(140, 30)
+        Me.Btn_regresar.TabIndex = 3
+        Me.Btn_regresar.Text = "&Regresar"
+        Me.Btn_regresar.TextAlign = System.Drawing.ContentAlignment.MiddleRight
+        Me.Btn_regresar.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText
+        Me.Btn_regresar.UseVisualStyleBackColor = True
         '
         'frm_SolicitudConsumibleSurtir
         '
@@ -270,4 +286,5 @@ Partial Class frm_SolicitudConsumibleSurtir
     Friend WithEvents lsv_Solicitudes As Modulo_MaterialesCentral.cp_Listview
     Friend WithEvents Lbl_Registros As System.Windows.Forms.Label
     Friend WithEvents btn_CancelarSolicitud As Button
+    Friend WithEvents Btn_regresar As Button
 End Class
