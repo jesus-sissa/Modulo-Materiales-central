@@ -121,6 +121,7 @@ Public Class frm_SolicitudConsumibleSurtir
             dgv_Detalle.Rows.Clear()
             btn_Surtir.Enabled = False
             btn_CancelarSolicitud.Enabled = False
+            Btn_regresar.Enabled = False
 
             Exit Sub
         End If
@@ -184,6 +185,7 @@ Public Class frm_SolicitudConsumibleSurtir
 
         btn_Surtir.Enabled = dgv_Detalle.Rows.Count > 0
         btn_CancelarSolicitud.Enabled = dgv_Detalle.Rows.Count > 0
+        Btn_regresar.Enabled = dgv_Detalle.Rows.Count > 0
     End Sub
 
     Private Sub dgv_Detalle_DataError(ByVal sender As Object, ByVal e As System.Windows.Forms.DataGridViewDataErrorEventArgs) Handles dgv_Detalle.DataError
@@ -269,6 +271,42 @@ Public Class frm_SolicitudConsumibleSurtir
             dgv_Detalle.Rows.Clear()
             btn_Surtir.Enabled = False
             btn_CancelarSolicitud.Enabled = False
+
+        End If
+    End Sub
+
+    Private Sub Btn_regresar_Click(sender As Object, e As EventArgs) Handles Btn_regresar.Click
+        SegundosDesconexion = 0
+
+        Dim Dt As New DataTable
+        Dt.Columns.Add(New DataColumn("Id_Solicitud", GetType(Integer)))
+        Dt.Columns.Add(New DataColumn("Id_Consumible", GetType(Integer)))
+        Dt.Columns.Add(New DataColumn("CantidadValidada", GetType(Integer)))
+        Dt.Columns.Add(New DataColumn("Observaciones", GetType(String)))
+        Dt.Columns.Add(New DataColumn("Status", GetType(String)))
+
+        Dim Dr As DataRow
+
+        For Each row As DataGridViewRow In dgv_Detalle.Rows
+            Dr = Dt.NewRow()
+            Dr("Id_Solicitud") = lsv_Solicitudes.SelectedItems(0).Tag
+            Dr("Id_Consumible") = row.Cells("Descripcion").Tag
+
+            Dt.Rows.Add(Dr)
+        Next
+
+        If Dt.Rows.Count > 0 Then
+
+            If MsgBox("Esta seguro de regresar la solicitud al status Validado?", MsgBoxStyle.Question & MsgBoxStyle.YesNo, frm_MENU.Text) = MsgBoxResult.No Then
+                Exit Sub
+            End If
+            '----------
+            If Not fn_ValidarSolicitudesConsumibles_resgresarStatus(lsv_Solicitudes.SelectedItems(0).Tag, Dt, "A") Then
+                MsgBox("Ha Ocurrido un error al intentar regresar al Status Validado.", MsgBoxStyle.Critical, frm_MENU.Text)
+                Exit Sub
+            End If
+            Call LlenarSolicitudes()
+            dgv_Detalle.Rows.Clear()
 
         End If
     End Sub
