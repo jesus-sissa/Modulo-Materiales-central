@@ -1672,3 +1672,79 @@ C:\Users\juan.mora\Documents\December\GitMDLmaterial_central\Modulo-Materiales-c
 C:\Users\juan.mora\Documents\December\GitMDLmaterial_central\Modulo-Materiales-central\obj\x86\Debug\Modulo Materiales Central.exe
 C:\Users\juan.mora\Documents\December\GitMDLmaterial_central\Modulo-Materiales-central\obj\x86\Debug\Modulo Materiales Central.xml
 C:\Users\juan.mora\Documents\December\GitMDLmaterial_central\Modulo-Materiales-central\obj\x86\Debug\Modulo Materiales Central.pdb
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\bin\x86\Debug\Modulo Materiales Central.exe.config
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\bin\x86\Debug\Modulo Materiales Central.exe.manifest
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\bin\x86\Debug\Modulo Materiales Central.application
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\bin\x86\Debug\Modulo Materiales Central.exe
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\bin\x86\Debug\Modulo Materiales Central.pdb
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\bin\x86\Debug\Modulo Materiales Central.xml
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\bin\x86\Debug\ExcelApi.dll
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\bin\x86\Debug\log4net.dll
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\bin\x86\Debug\NetOffice.dll
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\bin\x86\Debug\OfficeApi.dll
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\bin\x86\Debug\VBIDEApi.dll
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\bin\x86\Debug\stdole.dll
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\bin\x86\Debug\ExcelApi.xml
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\bin\x86\Debug\log4net.xml
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\bin\x86\Debug\NetOffice.xml
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\bin\x86\Debug\OfficeApi.xml
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\bin\x86\Debug\VBIDEApi.xml
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.AssemblyReference.cache
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.Form1.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ActualizacionesConsultar.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_AlertasConsultas.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasCancelar.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Compras.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasConsulta.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasDatos.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsultaConsumibles.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsultaOrdenServicio.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Consumibles.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ConsumiblesDeptos.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_DescargarArchivo.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_EnviarMensajes.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FirmaConexion.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FirmaElectronica.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasReimprimir.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Proveedores.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_RemisionesRastreo.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Reporte.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallas.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasConsultar.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasI.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteFallasS.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteTraspaso.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ReporteVentas.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_FoliosAsignados.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Settings.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SettingsCentral.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumibleSurtir.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudConsumiblesValidar.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudInsumosConsulta.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ComprasValidar.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Dialogo.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudMaterialConsulta.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_SolicitudMaterialSurtir.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Traspasos.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_TraspasosRecibir.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_ValidarCompra.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VentasCancelar.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Inventario.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Materiales.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_About.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginContra.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_LoginEmpresa.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Login.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_MENU.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_Ventas.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.frm_VerMensajes.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.Resources.resources
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.GenerateResource.cache
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.CoreCompileInputs.cache
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo Materiales Central.TrustInfo.xml
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo Materiales Central.exe.manifest
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo Materiales Central.application
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo_MaterialesCentral.vbproj.CopyComplete
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo Materiales Central.exe
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo Materiales Central.xml
+D:\REPOSITORY\SOURCE CODE\Modulo-Materiales-central\obj\x86\Debug\Modulo Materiales Central.pdb
